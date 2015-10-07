@@ -1,0 +1,405 @@
+!SESSION 2015-09-19 23:11:02.376 -----------------------------------------------
+eclipse.buildId=v21.1.0-569685
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_BO
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.android.ide.eclipse.adt.package.product -data G:\devs\JATGUIrepos\JAT-Framework -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY com.perforce.team.core 2 0 2015-09-19 23:11:05.567
+!MESSAGE unable to get manifest version attribute: Not running from jar file: bundleresource://378.fwk6790110:1/com/perforce/p4java/Metadata.class
+
+!ENTRY com.perforce.team.core 2 0 2015-09-19 23:11:05.570
+!MESSAGE unable to get manifest date attribute: Not running from jar file: bundleresource://378.fwk6790110:1/com/perforce/p4java/Metadata.class
+
+!ENTRY com.perforce.team.core 1 0 2015-09-19 23:11:05.570
+!MESSAGE P4Java server factory loaded; version: Internal 2010.1 Perforce Development; date: unknown
+
+!ENTRY com.perforce.team.core 1 0 2015-09-19 23:11:05.571
+!MESSAGE Using default charset: windows-1252; JVM charset: windows-1252
+
+!ENTRY com.perforce.team.core 1 0 2015-09-19 23:11:05.572
+!MESSAGE Checking this Java for symbolic link support...
+
+!ENTRY com.perforce.team.core 1 0 2015-09-19 23:11:05.574
+!MESSAGE It seems this Java supports symbolic links.
+
+!ENTRY com.perforce.team.core 1 0 2015-09-19 23:11:05.574
+!MESSAGE Symbolic link support at the OS level will be determined at runtime...
+
+!ENTRY com.perforce.team.core 1 0 2015-09-19 23:11:05.574
+!MESSAGE initializing system file command helper class: java.io.File
+
+!ENTRY com.perforce.team.core 1 0 2015-09-19 23:11:05.575
+!MESSAGE Using default RPC system file command helper: com.perforce.p4java.impl.mapbased.rpc.sys.helper.RpcSystemFileCommandsHelper
+
+!ENTRY com.perforce.team.core 1 0 2015-09-19 23:11:05.575
+!MESSAGE setting RPC system file helper to class com.perforce.team.core.p4java.P4JavaSysFileCommandsHelper
+!SESSION 2015-09-20 15:29:47.506 -----------------------------------------------
+eclipse.buildId=v21.1.0-569685
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_BO
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -data G:\devs\JATGUIrepos\JAT-Framework -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY com.perforce.team.core 2 0 2015-09-20 15:29:56.696
+!MESSAGE unable to get manifest version attribute: Not running from jar file: bundleresource://378.fwk6790110:1/com/perforce/p4java/Metadata.class
+
+!ENTRY com.perforce.team.core 2 0 2015-09-20 15:29:56.761
+!MESSAGE unable to get manifest date attribute: Not running from jar file: bundleresource://378.fwk6790110:1/com/perforce/p4java/Metadata.class
+
+!ENTRY com.perforce.team.core 1 0 2015-09-20 15:29:56.761
+!MESSAGE P4Java server factory loaded; version: Internal 2010.1 Perforce Development; date: unknown
+
+!ENTRY com.perforce.team.core 1 0 2015-09-20 15:29:56.761
+!MESSAGE Using default charset: windows-1252; JVM charset: windows-1252
+
+!ENTRY com.perforce.team.core 1 0 2015-09-20 15:29:56.763
+!MESSAGE Checking this Java for symbolic link support...
+
+!ENTRY com.perforce.team.core 1 0 2015-09-20 15:29:56.830
+!MESSAGE It seems this Java supports symbolic links.
+
+!ENTRY com.perforce.team.core 1 0 2015-09-20 15:29:56.830
+!MESSAGE Symbolic link support at the OS level will be determined at runtime...
+
+!ENTRY com.perforce.team.core 1 0 2015-09-20 15:29:56.830
+!MESSAGE initializing system file command helper class: java.io.File
+
+!ENTRY com.perforce.team.core 1 0 2015-09-20 15:29:56.831
+!MESSAGE Using default RPC system file command helper: com.perforce.p4java.impl.mapbased.rpc.sys.helper.RpcSystemFileCommandsHelper
+
+!ENTRY com.perforce.team.core 1 0 2015-09-20 15:29:56.831
+!MESSAGE setting RPC system file helper to class com.perforce.team.core.p4java.P4JavaSysFileCommandsHelper
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-09-20 16:21:06.283
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-09-20 16:21:06.283
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\danzel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2015-09-20 16:21:35.371
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:VisitorPageTest.java [in mf.cliente [in src [in JATGUIFramework]]]
+  package mf.cliente
+  import mfp.fabricaConcreta.webFactoryPattern
+  import org.openqa.selenium.WebDriver
+  import org.testng.annotations.Test
+  class VisitorPageTest
+    String baseUrl
+    void test1()
+
+!ENTRY org.testng.eclipse 1 0 2015-09-20 16:21:35.992
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\bin G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\testng.jar G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\jcommander.jar G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\bsh-2.0b4.jar G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\libs\selenium-server-standalone-2.37.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60147 -d G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\test-output C:\Users\danzel\AppData\Local\Temp\testng-eclipse--1425397569\testng-customsuite.xml
+java -ea -classpath G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\bin:G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\testng.jar:G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\jcommander.jar:G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\bsh-2.0b4.jar:G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\libs\selenium-server-standalone-2.37.0.jar org.testng.remote.RemoteTestNG -serport 60147 -d G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\test-output C:\Users\danzel\AppData\Local\Temp\testng-eclipse--1425397569\testng-customsuite.xml
+!SESSION 2015-10-02 08:57:47.054 -----------------------------------------------
+eclipse.buildId=v21.1.0-569685
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_BO
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-10-02 08:59:34.807
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.perforce.team.core 2 0 2015-10-02 08:59:37.408
+!MESSAGE unable to get manifest version attribute: Not running from jar file: bundleresource://378.fwk6790110:1/com/perforce/p4java/Metadata.class
+
+!ENTRY com.perforce.team.core 2 0 2015-10-02 08:59:37.413
+!MESSAGE unable to get manifest date attribute: Not running from jar file: bundleresource://378.fwk6790110:1/com/perforce/p4java/Metadata.class
+
+!ENTRY com.perforce.team.core 1 0 2015-10-02 08:59:37.414
+!MESSAGE P4Java server factory loaded; version: Internal 2010.1 Perforce Development; date: unknown
+
+!ENTRY com.perforce.team.core 1 0 2015-10-02 08:59:37.414
+!MESSAGE Using default charset: windows-1252; JVM charset: windows-1252
+
+!ENTRY com.perforce.team.core 1 0 2015-10-02 08:59:37.416
+!MESSAGE Checking this Java for symbolic link support...
+
+!ENTRY com.perforce.team.core 1 0 2015-10-02 08:59:37.419
+!MESSAGE It seems this Java supports symbolic links.
+
+!ENTRY com.perforce.team.core 1 0 2015-10-02 08:59:37.420
+!MESSAGE Symbolic link support at the OS level will be determined at runtime...
+
+!ENTRY com.perforce.team.core 1 0 2015-10-02 08:59:37.420
+!MESSAGE initializing system file command helper class: java.io.File
+
+!ENTRY com.perforce.team.core 1 0 2015-10-02 08:59:37.421
+!MESSAGE Using default RPC system file command helper: com.perforce.p4java.impl.mapbased.rpc.sys.helper.RpcSystemFileCommandsHelper
+
+!ENTRY com.perforce.team.core 1 0 2015-10-02 08:59:37.421
+!MESSAGE setting RPC system file helper to class com.perforce.team.core.p4java.P4JavaSysFileCommandsHelper
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-10-02 08:59:44.504
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-10-02 08:59:44.505
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\danzel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2015-10-04 14:08:36.098
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\bin G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\testng.jar G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\jcommander.jar G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\bsh-2.0b4.jar G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\libs\selenium-server-standalone-2.37.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59370 -d G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\test-output C:\Users\danzel\AppData\Local\Temp\testng-eclipse-85771774\testng-customsuite.xml
+java -ea -classpath G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\bin:G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\testng.jar:G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\jcommander.jar:G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\bsh-2.0b4.jar:G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\libs\selenium-server-standalone-2.37.0.jar org.testng.remote.RemoteTestNG -serport 59370 -d G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\test-output C:\Users\danzel\AppData\Local\Temp\testng-eclipse-85771774\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-10-07 18:37:34.518
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFrameworkTest\bin G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\testng.jar G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\jcommander.jar G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\bsh-2.0b4.jar G:\devs\JATGUIrepos\JAT-Framework\JATGUIFrameworkTest\libs\selenium-server-standalone-2.37.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50704 -d G:\devs\JATGUIrepos\JAT-Framework\JATGUIFrameworkTest\test-output C:\Users\danzel\AppData\Local\Temp\testng-eclipse-1573385015\testng-customsuite.xml
+java -ea -classpath G:\devs\JATGUIrepos\JAT-Framework\JATGUIFrameworkTest\bin:G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\testng.jar:G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\jcommander.jar:G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\bsh-2.0b4.jar:G:\devs\JATGUIrepos\JAT-Framework\JATGUIFrameworkTest\libs\selenium-server-standalone-2.37.0.jar org.testng.remote.RemoteTestNG -serport 50704 -d G:\devs\JATGUIrepos\JAT-Framework\JATGUIFrameworkTest\test-output C:\Users\danzel\AppData\Local\Temp\testng-eclipse-1573385015\testng-customsuite.xml
+
+!ENTRY org.eclipse.ltk.ui.refactoring 4 10000 2015-10-07 18:44:20.265
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Core Exception [code 273] Problems encountered while deleting resources.
+	at org.eclipse.jdt.internal.core.DeletePackageFragmentRootOperation.deleteResource(DeletePackageFragmentRootOperation.java:70)
+	at org.eclipse.jdt.internal.core.DeletePackageFragmentRootOperation.executeOperation(DeletePackageFragmentRootOperation.java:56)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:793)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.delete(PackageFragmentRoot.java:178)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DeletePackageFragmentRootChange.doDelete(DeletePackageFragmentRootChange.java:131)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.AbstractDeleteChange.perform(AbstractDeleteChange.java:37)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange$1.run(DynamicValidationStateChange.java:102)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5204)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:105)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange$1.run(DynamicValidationStateChange.java:102)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5204)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:105)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Could not delete '/JATGUIFramework/src'.
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:798)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1977)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.jdt.internal.core.DeletePackageFragmentRootOperation.deleteResource(DeletePackageFragmentRootOperation.java:68)
+	at org.eclipse.jdt.internal.core.DeletePackageFragmentRootOperation.executeOperation(DeletePackageFragmentRootOperation.java:56)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:793)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.delete(PackageFragmentRoot.java:178)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DeletePackageFragmentRootChange.doDelete(DeletePackageFragmentRootChange.java:131)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.AbstractDeleteChange.perform(AbstractDeleteChange.java:37)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange$1.run(DynamicValidationStateChange.java:102)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5204)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:105)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange$1.run(DynamicValidationStateChange.java:102)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5204)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:105)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Problems encountered while deleting files.
+Contains: Could not delete: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\src\browsers\chromedriver.exe.
+Contains: Could not delete: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\src\browsers.
+Contains: Could not delete: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\src.
+Caused by: org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:816)
+	at org.eclipse.jdt.internal.core.DeletePackageFragmentRootOperation.deleteResource(DeletePackageFragmentRootOperation.java:68)
+	at org.eclipse.jdt.internal.core.DeletePackageFragmentRootOperation.executeOperation(DeletePackageFragmentRootOperation.java:56)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:793)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.delete(PackageFragmentRoot.java:178)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DeletePackageFragmentRootChange.doDelete(DeletePackageFragmentRootChange.java:131)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.AbstractDeleteChange.perform(AbstractDeleteChange.java:37)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange$1.run(DynamicValidationStateChange.java:102)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5204)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:105)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange$1.run(DynamicValidationStateChange.java:102)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5204)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:105)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Could not delete '/JATGUIFramework/src'.
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:798)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1977)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.jdt.internal.core.DeletePackageFragmentRootOperation.deleteResource(DeletePackageFragmentRootOperation.java:68)
+	at org.eclipse.jdt.internal.core.DeletePackageFragmentRootOperation.executeOperation(DeletePackageFragmentRootOperation.java:56)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:793)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.delete(PackageFragmentRoot.java:178)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DeletePackageFragmentRootChange.doDelete(DeletePackageFragmentRootChange.java:131)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.AbstractDeleteChange.perform(AbstractDeleteChange.java:37)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange$1.run(DynamicValidationStateChange.java:102)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5204)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:105)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange$1.run(DynamicValidationStateChange.java:102)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5204)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:105)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Problems encountered while deleting files.
+Contains: Could not delete: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\src\browsers\chromedriver.exe.
+Contains: Could not delete: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\src\browsers.
+Contains: Could not delete: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\src.
+!SUBENTRY 1 org.eclipse.core.resources 4 273 2015-10-07 18:44:20.331
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 2 org.eclipse.core.resources 4 273 2015-10-07 18:44:20.331
+!MESSAGE Could not delete '/JATGUIFramework/src'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:798)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1977)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:803)
+	at org.eclipse.jdt.internal.core.DeletePackageFragmentRootOperation.deleteResource(DeletePackageFragmentRootOperation.java:68)
+	at org.eclipse.jdt.internal.core.DeletePackageFragmentRootOperation.executeOperation(DeletePackageFragmentRootOperation.java:56)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:793)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.delete(PackageFragmentRoot.java:178)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DeletePackageFragmentRootChange.doDelete(DeletePackageFragmentRootChange.java:131)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.AbstractDeleteChange.perform(AbstractDeleteChange.java:37)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange$1.run(DynamicValidationStateChange.java:102)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5204)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:105)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange$1.run(DynamicValidationStateChange.java:102)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5204)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:105)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Problems encountered while deleting files.
+Contains: Could not delete: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\src\browsers\chromedriver.exe.
+Contains: Could not delete: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\src\browsers.
+Contains: Could not delete: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\src.
+!SUBENTRY 3 org.eclipse.core.resources 4 273 2015-10-07 18:44:20.332
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2015-10-07 18:44:20.332
+!MESSAGE Problems encountered while deleting files.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2015-10-07 18:44:20.332
+!MESSAGE Could not delete: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\src\browsers\chromedriver.exe.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2015-10-07 18:44:20.332
+!MESSAGE Could not delete: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\src\browsers.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2015-10-07 18:44:20.332
+!MESSAGE Could not delete: G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\src.
+
+!ENTRY org.testng.eclipse 1 0 2015-10-07 18:48:09.304
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\testng.jar G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\jcommander.jar G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\bsh-2.0b4.jar G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\libs\selenium-server-standalone-2.37.0.jar G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\bin
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50970 -d G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\test-output C:\Users\danzel\AppData\Local\Temp\testng-eclipse-1123700562\testng-customsuite.xml
+java -ea -classpath G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\testng.jar:G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\jcommander.jar:G:\devs\android\eclipse\plugins\org.testng.eclipse_6.9.4.201505110455\lib\bsh-2.0b4.jar:G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\libs\selenium-server-standalone-2.37.0.jar:G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\bin org.testng.remote.RemoteTestNG -serport 50970 -d G:\devs\JATGUIrepos\JAT-Framework\JATGUIFramework\test-output C:\Users\danzel\AppData\Local\Temp\testng-eclipse-1123700562\testng-customsuite.xml

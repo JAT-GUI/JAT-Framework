@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+G:\devs\JATGUIrepos\JAT-Framework\.metadata\.plugins\org.eclipse.jdt.core
+1588510657.index
+2293369018.index
+3340153701.index
+3984778901.index

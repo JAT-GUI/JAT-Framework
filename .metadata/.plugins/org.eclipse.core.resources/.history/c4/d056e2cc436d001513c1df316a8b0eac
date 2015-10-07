@@ -1,0 +1,7 @@
+package mfp.productBase.copy;
+
+public interface PageObjectPBI{
+	boolean areBasicElementsDisplayed();
+	public void setBaseUrl(String baseUrl);
+	public void getUrl();
+}
